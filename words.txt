@@ -1,0 +1,10 @@
+silnik
+skrzynia
+zawieszenie
+wydech
+lampa
+katalizator
+zawory
+hamulce
+nadwozie
+benzyna
